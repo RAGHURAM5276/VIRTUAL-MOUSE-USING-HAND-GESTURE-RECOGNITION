@@ -5,22 +5,22 @@ The gesture-controlled virtual mouse is an innovative technology that allows peo
 
 
 Note: Use Python version: 3.8.5
-Install Anaconda Distribution
-Install Necessary libraries using pip:
+-Install Anaconda Distribution
+-Install Necessary libraries using pip:
 
-Install PyAudio
-Install pywin32
-pyttsx3==2.71
-SpeechRecognition==3.8.1
-pynput==1.7.3
-pyautogui==0.9.53
-wikipedia==1.4.0
-opencv-python==4.5.3.56
-mediapipe==0.8.6.2
-comtypes==1.1.11
-pycaw==20181226
-screen-brightness-control==0.9.0
-eel==0.14.0
+-Install PyAudio
+-Install pywin32
+-pyttsx3==2.71
+-SpeechRecognition==3.8.1
+-pynput==1.7.3
+-pyautogui==0.9.53
+-wikipedia==1.4.0
+-opencv-python==4.5.3.56
+-mediapipe==0.8.6.2
+-comtypes==1.1.11
+-pycaw==20181226
+-screen-brightness-control==0.9.0
+-eel==0.14.0
 
 ## Features
 
