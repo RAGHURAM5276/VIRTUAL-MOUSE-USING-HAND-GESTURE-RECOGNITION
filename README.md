@@ -74,11 +74,4 @@ Or to run only Gesture Recognition without the voice assisstant:
 
 Uncomment last 2 lines of Code in the file Gesture_Controller.py
 
-## Contributors
-
-| Name | Email Id    | GitHub                ||
-| :-------- | :------- | :------------------------- |--------|
-| Shri Akshita.G | [Mail](akshitagaddam25@gmail.com) | [GitHub](https://github.com/shriakshita)  |
-| Allapuram Priyadharshini | [Mail](raopriya4488@gmail.com) | [GitHub](https://github.com/priyadharshini2207)|  
-| C. Balakrishna Reddy| [Mail](balureddy9284@gmail.com) | [GitHub](https://github.com/Balakrishnaaa)|
 
